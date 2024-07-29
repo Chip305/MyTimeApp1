@@ -14,7 +14,7 @@ Wireframes: Design layouts for a multi-column interface displaying times, maps, 
 Usability Testing
 
 Objective: Test the prototype with real users to identify usability issues.
-Method: Conduct usability tests with a sample group of users and gather feedback.
+Method: Conduct usability tests with a sample group of users and frinds and then gather feedback.
 Iterations: Modify the design based on feedback, focusing on improving navigation, data visibility, and overall user satisfaction.
 Accessibility
 
