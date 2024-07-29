@@ -111,13 +111,12 @@ if selected_cities:
     st.write("Selected time:", selected_time)
 
     # Information box
-    st.info("This is an information box to provide additional details to the user.")
+    st.info("This information box will update and provide additional details to the signed-in users in real-time as they move around locations.")
 
     # Warning box
-    st.warning("This is a warning box to alert the user of potential issues.")
+    st.warning("This is a warning box that'll alert user's of potential issues in their zones.")
 
 st.sidebar.markdown("""
 ### About
 This web app i call MyTime shows the current time for selected cities around the world. The time is updated in real-time world-wide.
-""")
 
