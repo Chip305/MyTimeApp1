@@ -116,7 +116,7 @@ if selected_cities:
     # Warning box
     st.warning("This is a warning box that'll alert user's of potential issues in their zones.")
 
-st.sidebar.markdown("""
+
 ### About
 This web app i call MyTime shows the current time for selected cities around the world. The time is updated in real-time world-wide.
 
