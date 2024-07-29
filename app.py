@@ -117,6 +117,3 @@ if selected_cities:
     st.warning("This is a warning box that'll alert user's of potential issues in their zones.")
 
 
-### About
-This web app i call MyTime shows the current time for selected cities around the world. The time is updated in real-time world-wide.
-
