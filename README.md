@@ -1,4 +1,4 @@
-The application will display the current time for various international tourist cities and include interactive features, adhering to Human-Computer Interaction (HCI) principles.
+My main goal for the application is for it to display the current time for various international tourist cities and include interactive features, adhering to (HCI) principles.
 
 Structured Design Process
 User Research
